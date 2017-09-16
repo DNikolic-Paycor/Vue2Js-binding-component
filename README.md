@@ -1,6 +1,6 @@
 # myproject
 
-> A Vue.js project
+> A Vue.js project that shows a use of v-bind directive used to change components in router kind off way.
 
 ## Build Setup
 
